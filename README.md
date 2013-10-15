@@ -37,7 +37,7 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 * Hjortur
 
-1. SickBeard  [utgafa sem virkar a synology nas](https://github.com/midgetspy/Sick-Beard.git "Git Clone linkur")/midgetspy/Sick-Beard.git / [GNU General Public License](http://www.gnu.org/licenses/gpl.html)
+1. SickBeard  [utgafa sem virkar a synology nas](https://github.com/midgetspy/Sick-Beard.git "Git Clone linkur") / [GNU General Public License](http://www.gnu.org/licenses/gpl.html)
 2. CouchPotato Server [utgafa sem virkar a synology nas](https://github.com/RuudBurger/CouchPotatoServer.git "Git Clone linkur") / [GNU General Public License](https://github.com/RuudBurger/CouchPotatoServer/blob/master/license.txt)
 3. MRTG [Multi Router Traffic Grapher](http://oss.oetiker.ch/mrtg/pub/?M=D "Heimsida MRTG") / [GNU General Public License](http://oss.oetiker.ch/mrtg/license.en.html)
 
