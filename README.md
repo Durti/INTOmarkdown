@@ -9,14 +9,14 @@
 * Hjortur
 
   Eg var med DiskStation Manager (DSM)sem er byggdur a Linux kernel og akvad ad sja hvort thad myndi ekki bara virka.
-  ![Syno](http://www.synology.com/products/img/top/DS1512+.jpg "Synology 1512")
+  ![Syno](https://raw.github.com/Durti/INTOmarkdown/master/DS1512+.jpg "Synology 1512")
 
   eg get thvi ekki synt mynd af uppsettningunni.
 
 * Rakel
 
 Eg setti upp ubuntu a usb og thad gekk bara vel. Eg lenti hinsvegar i sma vandraedum thegar eg aetladi ad boota upp a usb. Thad var ekki nog ad breyta boot rodinni heldur thurfti eg ad breyta sma fleiru i BIOS til ad fa thetta til ad virka.
-![Ubuntu USB](http://i824.photobucket.com/albums/zz167/lerkill/UbuntuMynd-1.jpeg)
+![Ubuntu USB](https://raw.github.com/Durti/INTOmarkdown/master/UbuntuMynd-1.jpeg)
  
 ## 2. Uppsetning á vim && git
 
