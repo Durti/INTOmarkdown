@@ -29,7 +29,7 @@ Eg setti upp ubuntu a usb og thad gekk bara vel. Eg lenti hinsvegar i sma vandra
 
 Thad gekk bara vel ad setja upp vim og git. Engin vandkvaedi thar, for eftir leidbeiningunum og allt virkadi fint.
 
-Lýsið hvernig gekk að setja upp þessi tól.
+
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -45,9 +45,6 @@ Her komid mikid bras, tha serstaklega med ad bua til SSH lykilinn. Eftir ad gene
  "add-ssh id rsa.pub" en ekki bara "id rsa.pub". Eftir ad thetta for allt ad virka, gekk agaetlega ad nota vim til ad
  breyta NIM.cpp og "clone" og "push" gekk eftir lika.
  
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
 
@@ -63,7 +60,6 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 2. VLC player [VLC source code] (http://www.videolan.org/vlc/download-sources.html) /[LGPL licence] (https://www.videolan.org/license/) 
 
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 ## 5. Unnið með Git (2. hluti)
 
