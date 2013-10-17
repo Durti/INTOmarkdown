@@ -16,7 +16,7 @@
 * Rakel
 
 Eg setti upp ubuntu a usb og thad gekk bara vel. Eg lenti hinsvegar i sma vandraedum thegar eg aetladi ad boota upp a usb. Thad var ekki nog ad breyta boot rodinni heldur thurfti eg ad breyta sma fleiru i BIOS til ad fa thetta til ad virka.
-![Ubuntu a USB](home/ubuntu/.ssh/INTOmarkdown/UbuntuMynd.jpeg)
+![Ubuntu a USB](https://www.facebook.com/photo.php?fbid=10151704575433603&set=pb.678203602.-2207520000.1381982590.&type=3&theater "Ubuntu on USB")
  
 ## 2. Uppsetning á vim && git
 
@@ -36,7 +36,7 @@ Lýsið hvernig gekk að setja upp þessi tól.
 * Hjortur
 
   thad gekk bara vel. breytti kodanum med vi editor en thad gengur illa ad nota islenska stafi.
-  Her er [linkur a verkefnid](https://github.com/Durti/INTOPrufa.git "Git Verkefni Hjartar")
+  Her er [linkur a verkefnid](https://github.com/Durti/INTOPrufa.git "Git Verkefni Hjartar og Rakelar")
 
 * Rakel
 
