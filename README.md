@@ -16,7 +16,7 @@
 * Rakel
 
 Eg setti upp ubuntu a usb og thad gekk bara vel. Eg lenti hinsvegar i sma vandraedum thegar eg aetladi ad boota upp a usb. Thad var ekki nog ad breyta boot rodinni heldur thurfti eg ad breyta sma fleiru i BIOS til ad fa thetta til ad virka.
-![Ubuntu a USB](~/.ssh/INTOmarkdown/UbuntuMynd.jpeg)
+![Ubuntu a USB](home/ubuntu/.ssh/INTOmarkdown/UbuntuMynd.jpeg)
  
 ## 2. Uppsetning á vim && git
 
