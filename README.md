@@ -16,7 +16,7 @@
 * Rakel
 
 Eg setti upp ubuntu a usb og thad gekk bara vel. Eg lenti hinsvegar i sma vandraedum thegar eg aetladi ad boota upp a usb. Thad var ekki nog ad breyta boot rodinni heldur thurfti eg ad breyta sma fleiru i BIOS til ad fa thetta til ad virka.
-![Image](http://s824.photobucket.com/user/lerkill/media/UbuntuMynd-1.jpeg)
+![Image](hhttp://i824.photobucket.com/albums/zz167/lerkill/UbuntuMynd-1.jpeg)
  
 ## 2. Uppsetning á vim && git
 
